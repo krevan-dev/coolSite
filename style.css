@@ -61,6 +61,10 @@ hr{
 .sidebar div{
     margin: 0 0 2vh 0;
 }
+.sidebar img{
+    height: 200px;
+    width: 350px;
+}
 
 .title{
     font-weight: bold;
