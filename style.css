@@ -1,0 +1,10 @@
+:root{
+    --header-color: blue;
+}
+
+header{
+    background-color: var(--header-color);
+    padding: 0;
+    justify-content: center;
+    height: 15vh;
+}
