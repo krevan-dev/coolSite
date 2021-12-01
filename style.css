@@ -37,7 +37,7 @@ hr{
     opacity: .4;
 }
 
-#pagecontainer{
+#page-container{
     position:relative;
     min-height: 100vh;
 }
